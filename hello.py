@@ -1,3 +1,3 @@
 asdfasdf sadf asd
 
-print("hello world")
+print("hi")
