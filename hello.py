@@ -1,1 +1,3 @@
-print("hello world program zohiomj architecture")
+asdfasdf sadf asd
+
+print("hello world")
